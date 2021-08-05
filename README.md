@@ -2,6 +2,9 @@
 
 This file contains the euchre class and driver function for my implementation of the card game [Euchre](https://en.wikipedia.org/wiki/Euchre). It is playable through the terminal with up to four human and computer players.
 
+# classify.cpp 
+
+This file contains several classes and the driver function for my piazza post classifier. In its current implementaiton, it retrains and calculates predictions on a specified data set each time it is run.
 
 # randmst.cpp
 This is a program that calculates the weight and average edge length for a minimum spanning tree on a complete graph with user-specified number of vertices and dimension. A dimension 0 graph has random edge lengths, while a graph with dimension 2 - 4 is geometric, with vertices representing random points in unit square, cube, or hypercube, respectively. 
